@@ -1,0 +1,20 @@
+body {
+    background-color: aquamarine;
+    color: blueviolet;
+}
+header{
+    text-align: center;
+}
+h1{
+    color: aqua;
+    cursor: wait;
+}
+p{
+    color: brown;
+}
+button{
+    background-color: black;
+}
+#cambiar-color{
+    background-color: rgb(0, 148, 239);
+}
